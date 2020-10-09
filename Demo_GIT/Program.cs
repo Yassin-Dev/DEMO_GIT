@@ -10,6 +10,10 @@ namespace Demo_GIT
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("");
+            Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
